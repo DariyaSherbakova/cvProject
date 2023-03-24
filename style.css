@@ -82,6 +82,10 @@ html{
 
 }
 
+.mainContent{
+    margin: 20px;
+}
+
 
 h1, h2, h3 {
 text-align: center;
