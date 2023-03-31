@@ -71,6 +71,7 @@ body {
   width: 300px;
   justify-content: space-around;
 }
+
 .heroWrapper {
   background-image: linear-gradient(rgb(240, 15, 15), rgba(248, 246, 246, 0.5)),
     url("assets/images/bg_image.jpeg");
